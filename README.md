@@ -1,5 +1,5 @@
 # SmartRoom-IoT-ClimateControl
-<h6> Primer Semestre 2021
+<h6> Segundo Semestre 2023
      Universidad de San Carlos de Guatemala -USAC- 
      Arquitectura de Computadoras y Ensambladores  2 
 </h6>
